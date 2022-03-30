@@ -1,4 +1,4 @@
-### Niaji, I'm Kyendy Mauwi! 👋
+### Mambo vipi👊, I'm Kyendy Mauwi! 👋
 
 Here are some ideas to get you started:
 
