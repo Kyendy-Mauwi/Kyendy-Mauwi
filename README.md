@@ -1,4 +1,4 @@
-### Hi there 👋
+### Niaji, I'm Kyendy Mauwi! 👋
 
 Here are some ideas to get you started:
 
