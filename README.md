@@ -6,8 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning web design.
 - 👯 I’m looking to collaborate on webdesign projects.
 - 🤔 I’m looking for help with making the world a better place
-- 💬 Ask me about the Kenyan.
-- 📫 How to reach me: [Instagram . @kye_ndy.gurama](https://www.instagram.com/kye_ndy.gurama/)
+- 💬 Ask me about the Kenya.
 - 😄 Pronouns: He/ His
 - ⚡ Fun fact: Me I do What I do How I do Utadu?
 
