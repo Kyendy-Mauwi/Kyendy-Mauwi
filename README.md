@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyendy-mauwi&" alt="kyendy-mauwi" /></p>
 
- ![Snake animation](https://github.com/kyendy-mauwi/kyendy-mauwi/blob/output/github-contribution-grid-snake.svg)
+
