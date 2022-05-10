@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with making the world a better place
 - 💬 Ask me about the Kenya.
 - 😄 Pronouns: He/ His
-- ⚡ Fun fact: Me I do What I do How I do Utadu?
+- ⚡ Fun fact: I do What I do How I do Utadu?
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyendy-mauwi&label=Profile%20views&color=0e75b6&style=flat" alt="kyendy-mauwi" /> </p>
