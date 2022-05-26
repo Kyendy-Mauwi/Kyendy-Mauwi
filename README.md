@@ -1,6 +1,6 @@
-### Mambo vipi👊, I'm Kyendy Mauwi 🇰🇪
+# Mambo vipi👊, I'm Kyendy Mauwi 🇰🇪
 
-Here are some ideas to get you started:
+### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React and React Native languages.
 - 🌱 I’m currently learning web design.
