@@ -1,4 +1,4 @@
-### Mambo vipi👊, I'm Kyendy Mauwi:ballot_box_with_check: 🇰🇪
+### Mambo vipi👊, I'm Kyendy Mauwi 🇰🇪
 
 Here are some ideas to get you started:
 
