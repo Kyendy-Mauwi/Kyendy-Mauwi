@@ -11,7 +11,8 @@
 - ⚡ Fun fact: I do What I do How I do Utadu?
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kyendy-mauwi&label=Profile%20views&color=0e75b6&style=flat" alt="kyendy-mauwi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kyendy-mauwi&label=Profile%20views&color=0e75b6&style=flat" alt="kyendy-mauwi" /> 
+<a href="https://github.com/Kyendy-Mauwi?tab=followers"><img src="https://img.shields.io/github/followers/Kyendy-Mauwi?label=Followers&style=social" alt="GitHub Badge"></a></p>  
 
 
 
