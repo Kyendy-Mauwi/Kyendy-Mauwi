@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/ His
 - ⚡ Fun fact: I do What I do How I do Utadu? 
 
-<img align="right" alt=coding width="400" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
+<img align="center" alt=coding width="400" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
 
 <h2 align="center">❤ Views and Followers</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kyendy-mauwi&label=Profile%20views&color=0e75b6&style=flat" alt="kyendy-mauwi" /> 
@@ -52,3 +52,8 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyendy-mauwi" alt="kyendy-mauwi" /></a> </p>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kyendy-Mauwi)  
+
+![GitHub metrics](https://metrics.lecoq.io/Kyendy-Mauwi)  
+
