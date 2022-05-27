@@ -1,4 +1,4 @@
-# Mambo vipi👊, I'm Kyendy Mauwi 🇰🇪
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kyendy Mauwi</h1>
 
 ### Here are some ideas to get you started:
 
