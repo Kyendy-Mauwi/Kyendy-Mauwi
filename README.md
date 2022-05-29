@@ -1,3 +1,6 @@
+![pooh2](https://user-images.githubusercontent.com/62172250/170879613-7ac1292a-7a33-475c-a2d4-8094a58e51e0.png)
+
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kyendy Mauwi</h1>
 
 ### Here are some ideas to get you started:
