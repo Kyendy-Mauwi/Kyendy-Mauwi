@@ -1,6 +1,7 @@
-![My project](https://user-images.githubusercontent.com/62172250/170935877-4bdb3eaa-7453-4704-acf0-565962353613.png)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kyendy Mauwi</h1>
+
+<img src="https://user-images.githubusercontent.com/62172250/170935877-4bdb3eaa-7453-4704-acf0-565962353613.png" width="300" height="460" align="right" />
 
 ### Here are some ideas to get you started:
 
@@ -12,7 +13,8 @@
 - 😄 Pronouns: He/ His
 - ⚡ Fun fact: I do What I do How I do Utadu? 
 
-<img align="center" alt=coding width="400" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
+
+<!-- <img align="center" alt=coding width="400" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif"> -->
 
 <h2 align="center">❤ Views and Followers</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kyendy-mauwi&label=Profile%20views&color=0e75b6&style=flat" alt="kyendy-mauwi" /> 
