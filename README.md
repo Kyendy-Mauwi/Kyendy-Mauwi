@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kyendy Mauwi</h1>
+<h1 align="center" fontsize="60px">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%" height="10%"> I'm Kyendy Mauwi</h1>
 
 <img src="https://user-images.githubusercontent.com/62172250/170935877-4bdb3eaa-7453-4704-acf0-565962353613.png" width="300" height="460" align="right" />
 
