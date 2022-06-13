@@ -5,13 +5,13 @@
 
 ### Here are some ideas to get you started:
 
-- 🔭 I’m currently working on React and React Native languages.
+- 🔭 I’m currently working on React and React Native languages. 
 - 🌱 I’m currently learning web design.
 - 👯 I’m looking to collaborate on webdesign projects.
-- 🤔 I’m looking for help with making the world a better place
-- 💬 Ask me about the Kenya.
-- 😄 Pronouns: He/ His
-- ⚡ Fun fact: I do What I do How I do Utadu? 
+- 🤔 I’m looking for help with making the world a better place.
+- 💬 Ask me about 🇰🇪.
+- 😄 Pronouns: He/ His.
+- ⚡ Fun fact: Warren G. Bennis: "The factory of the future will have only two employees, a man, and a dog. The man👨‍🦱 will be there to feed the dog🐕‍🦺. 
 
 
 <!-- <img align="center" alt=coding width="400" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif"> -->
