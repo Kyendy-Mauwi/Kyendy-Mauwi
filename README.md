@@ -59,3 +59,4 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/Kyendy-Mauwi)  
 
+![My user statistics](images/userstats.svg)
