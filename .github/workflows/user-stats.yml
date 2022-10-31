@@ -5,7 +5,7 @@ on:
     - cron: '42 5 * * *'
   push:
     branches: [ master ]
-    paths: [ '.github/workflows/userstats.yml' ]
+    paths: [ '.github/workflows/user-stats.yml' ]
   workflow_dispatch:
 
 jobs:
