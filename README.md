@@ -44,17 +44,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kyendy-mauwi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) 
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![snake gif](https://github.com/Kyendy-Mauwi/Kyendy-Mauwi/blob/output/github-contribution-grid-snake.gif)
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kyendy-Mauwi)  
-
-![GitHub metrics](https://metrics.lecoq.io/Kyendy-Mauwi)  
+ 
 
 
 
