@@ -3,10 +3,7 @@
 
 ### Here are some ideas to get you started:
 
-- 🔭 I’m currently working on React and React Native languages. 
-- 🌱 I’m currently learning web design.
-- 👯 I’m looking to collaborate on webdesign projects.
-- 🤔 I’m looking for help with making the world a better place.
+- 🔭 Data Science | Web Dev | Computer software and hardware maintenance | Computer Networking | Database Systems.
 - 💬 Ask me about 🇰🇪.
 - 😄 Pronouns: He/ His.
 - ⚡ Fun fact: Warren G. Bennis: "The factory of the future will have only two employees, a man, and a dog. The man👨‍🦱 will be there to feed the dog🐕‍🦺. 
