@@ -14,7 +14,10 @@
 <h2 align="center">❤ Views and Followers</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kyendy-mauwi&label=Profile%20views&color=0e75b6&style=flat" alt="kyendy-mauwi" /> 
 <a href="https://github.com/Kyendy-Mauwi?tab=followers"><img src="https://img.shields.io/github/followers/Kyendy-Mauwi?label=Followers&style=social" alt="GitHub Badge"></a></p>  
-
+<p align="center"> 
+  You are visitor number<br>
+  <img src="https://profile-counter.glitch.me/Kyendy-Mauwi/count.svg" />
+</p>
 
 
 <h2 align="center">Connect with me:</h2>
