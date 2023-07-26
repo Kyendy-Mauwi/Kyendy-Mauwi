@@ -26,7 +26,7 @@
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://codepen.io/@kyendy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@kyendy" height="30" width="40" /></a>
-<a href="https://dev.to/dev.to kyendy-mauwi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to kyendy-mauwi" height="30" width="40" /></a>
+<a href="https://dev.to/kyendymauwi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to kyendy-mauwi" height="30" width="40" /></a>
 <a href="https://twitter.com/@kyendy_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kyendy_m" height="30" width="40" /></a>
 <a href="https://fb.com/mauwi rotagurama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mauwi rotagurama" height="30" width="40" /></a>
 <a href="https://instagram.com/kye_ndy.gurama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kye_ndy.gurama" height="30" width="40" /></a>
