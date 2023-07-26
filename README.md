@@ -1,6 +1,9 @@
 
 <h1 align="center" fontsize="60px">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%" height="10%"> I'm Kyendy Mauwi</h1>
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/kevin-mauwi-kyendy)](<https://www.linkedin.com/in/kevin-mauwi-kyendy/>)
+
+
 ### Here are some ideas to get you started:
 
 - 🔭 Data Science | Web Dev | Computer software and hardware maintenance | Computer Networking | Database Systems.
