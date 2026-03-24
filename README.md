@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006633,100:FFD700&height=240&section=header&text=Kyendy%20Mauwi&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=006633&center=true&vCenter=true&width=500&lines=Junior+Data+Analyst;Junior+Data+Scientist" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=006633&center=true&vCenter=true&width=500&lines=Junior+Data+Analyst+%26+Scientist;" />
   </p>
 </div>
 
@@ -15,6 +15,18 @@
 
 ---
 
+### 🚀 Live Production Gallery
+
+| Project | Description | Live Link |
+| :--- | :--- | :--- |
+| **🇰🇪 Kenya AHP Monitor** | National housing analytics engine. | [🚀 View Site](https://kenya-ahp-dashboard.streamlit.app/) |
+| **🏠 AHP Dashboard 2025** | Enhanced 2025 housing metrics. | [🚀 View Site](https://ahp2025.netlify.app/) |
+| **📈 KASIB Website** | Strategic revamp for stock investment. | [🚀 Visit Site](https://kasib.vercel.app/) |
+| **🎓 Divine Providence** | Official Academy portal and CMS. | [🚀 Visit Site](https://divineprovidenceacademy.netlify.app/) |
+| **⛪ St. Francis Youth** | Community engagement platform. | [🚀 Visit Site](https://stfrancisyouth.netlify.app/) |
+
+---
+
 ### 🧰 Technical Arsenal
 
 | Domain | Expert Stack |
@@ -22,27 +34,6 @@
 | **Analysis & Science** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
 | **Visualization** | ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![PowerBi](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
 | **Cloud & DevOps** | ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
-
----
-
-### 🚀 Featured Production
-<table align="center">
-  <tr>
-    <td width="55%" valign="top">
-      <h4>🇰🇪 Kenya AHP National Monitor</h4>
-      <p><i>A production-grade analytics engine tracking 100+ national housing projects.</i></p>
-      <code><b>Tech:</b> Python | Streamlit | AI-Logic</code>
-      <br/><br/>
-      <a href="https://kenya-ahp-dashboard.streamlit.app/">
-        <img src="https://img.shields.io/badge/LIVE_DASHBOARD-006633?style=for-the-badge&logo=streamlit&logoColor=white" />
-      </a>
-    </td>
-    <td width="45%" valign="top">
-      <h4>🏆 Impact Metrics</h4>
-      <img src="https://github-profile-trophy.vercel.app/?username=Kyendy-Mauwi&theme=darkhub&no-frame=true&column=2&margin-w=10" width="100%" />
-    </td>
-  </tr>
-</table>
 
 ---
 
