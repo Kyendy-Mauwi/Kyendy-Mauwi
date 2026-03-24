@@ -22,7 +22,7 @@
 | **🇰🇪 Kenya AHP Monitor** | National housing analytics engine. | [🚀 View Site](https://kenya-ahp-dashboard.streamlit.app/) |
 | **🏠 AHP Dashboard 2025** | Enhanced 2025 housing metrics. | [🚀 View Site](https://ahp2025.netlify.app/) |
 | **📈 KASIB Website** | Strategic revamp for stock investment. | [🚀 Visit Site](https://kasib.vercel.app/) |
-| **🎓 Divine Providence** | Official Academy portal and CMS. | [🚀 Visit Site](https://divineprovidenceacademy.netlify.app/) |
+| **🎓 Divine Providence** | New School Website. | [🚀 Visit Site](https://divineprovidenceacademy.netlify.app/) |
 | **⛪ St. Francis Youth** | Community engagement platform. | [🚀 Visit Site](https://stfrancisyouth.netlify.app/) |
 
 ---
